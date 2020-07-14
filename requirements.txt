@@ -1,0 +1,7 @@
+jamo
+librosa == 0.7
+argparse
+tensorflow == 2.2
+numpy
+tqdm
+scikit-learn
